@@ -3,7 +3,7 @@ title: "Cursor の Project Rules 活用と改善"
 emoji: "✨"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ['cursor','生成ai']
-published: false
+published: true
 publication_name: "globis"
 ---
 
