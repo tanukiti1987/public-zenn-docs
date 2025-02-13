@@ -29,12 +29,15 @@ Cursor で開くリポジトリ、ディレクトリに関わらず、常に適�
 
 ルールはテキストで書くことができます。
 
-#### .cursorrules
+#### .cursorrules(非推奨)
 
 Cursor で開くリポジトリ、ディレクトリ以下で適用されるカスタムルールです。
 必要なときに自分で `.cursorrules` ファイルを作成する必要があります。
 
 ルールはテキストで書くことができます。
+
+ただし、[Cursor Rules for AI](https://docs.cursor.com/context/rules-for-ai#cursorrules) に記載されている通り、.cursorrules は将来的に廃止予定だそうです。
+新たに .cursorrules を作成するよりは、Project Rules を使ったほうがよいでしょう。
 
 #### Project Rules
 
