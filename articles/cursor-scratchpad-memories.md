@@ -3,7 +3,7 @@ title: "Cursor と振り返りをして自走力を高める"
 emoji: "✨"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ['cursor','生成ai']
-published: false
+published: true
 publication_name: "globis"
 ---
 
