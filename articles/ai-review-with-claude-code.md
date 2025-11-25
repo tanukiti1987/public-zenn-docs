@@ -12,8 +12,6 @@ publication_name: "sikmi_tech"
 [しくみ製作所](https://sikmi.com/)で働いている [tanukiti1987](https://zenn.dev/tanukiti1987) です。
 普段はグロービス様のプロダクト開発（[GLOPLA LMS](https://gce.globis.co.jp/service/training-type/glopla-lms/)）のお手伝いをさせていただいています。
 
-グロービス様のアドベントカレンダーにしくみ製作所の zenn をリンクするにあたり、快く受け入れていただきありがとうございます 🙇‍♂
-
 今回は、普段のプロジェクトの中で AIコードレビューを導入しましたので、そのお話をさせていただきます。
 
 ----
