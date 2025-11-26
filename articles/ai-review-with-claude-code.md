@@ -3,7 +3,8 @@ title: "チームの知で作る AI コードレビュー 🤖"
 emoji: "✨"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["Claude", "生成ai"]
-published: false
+published: true
+published_at: 2025-12-02 00:00
 publication_name: "sikmi_tech"
 ---
 
